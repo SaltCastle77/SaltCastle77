@@ -1,4 +1,8 @@
-### Hi there!👋
+### 👋Hi there! I'm studying mobile app using iOS
+
+### Skills
+#### platform & Languages
+<img src="https://img.shields.io/badge/iOS-3DDC84?style=flat-square&logo=iOSd&logoColor=white"/>
 
 <!--
 **SaltCastle77/SaltCastle77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
