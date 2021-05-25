@@ -3,7 +3,7 @@
 ### Skills
 #### platform & Languages
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOSd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=Swiftd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swiftd&logoColor=white"/>
 
 <!--
 **SaltCastle77/SaltCastle77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
